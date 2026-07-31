@@ -1,20 +1,15 @@
 class Solution {
 public:
     int minimumPushes(string word) {
+
         int n = word.length();
         vector<int> mpp(26, -1), freq(26, 0);
 
         int cn = 1, cnt = 0;
 
-        map<char, int> mpp2;
-
         
 
-        for ( char c : word ) mpp2[c]++;
-
-        for(auto it : mpp2){
-            freq[it.first-'a'] = it.second;
-        }
+        for ( char c : word ) freq[c-'a']++;
 
         vector<pair<int, char>> nums;
 
@@ -43,7 +38,7 @@ public:
             
         }
 
-        for(auto it : nums) cout<<it.first << " " << it.second << "\n";
+        // for(auto it : nums) cout<<it.first << " " << it.second << "\n";
 
 
         int ans = 0;
