@@ -3,6 +3,7 @@ public:
     int minimumPushes(string word) {
 
         int n = word.length();
+        
         vector<int> mpp(26, -1), freq(26, 0);
 
         int cn = 1, cnt = 0;
