@@ -5,9 +5,8 @@ public:
         priority_queue<int> pq;
         for(int ele : stones) pq.push(ele);
         while(!pq.empty()){
-            int a = pq.top();
+            ans = pq.top();
             pq.pop();
-            ans = a;
             if(pq.empty()) break;
             int b = pq.top();
             pq.pop();
