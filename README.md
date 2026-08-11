@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Garena32/BRAIN_GYM/tree/master/0881-boats-to-save-people) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Garena32/BRAIN_GYM/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Garena32/BRAIN_GYM/tree/master/1406-stone-game-iii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
