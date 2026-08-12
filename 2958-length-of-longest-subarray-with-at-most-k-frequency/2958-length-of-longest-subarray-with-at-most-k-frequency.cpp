@@ -19,7 +19,7 @@ public:
                 r++;
             }
 
-            cout<<l<<" "<<r<<"\n";
+           // cout<<l<<" "<<r<<"\n";
 
             while(l<n && r<n){
                 if(mpp[nums[r]] <= k) break;
