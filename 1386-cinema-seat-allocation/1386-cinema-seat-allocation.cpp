@@ -15,7 +15,7 @@ public:
                 seats[nums[i][1]-1] = 1;
                 i++;
             }
-            for(int ele : seats) cout<<ele<<" ";
+            // for(int ele : seats) cout<<ele<<" ";
             if(!seats[5] && !seats[6] && !seats[7] && !seats[8] && !seats[1] && !seats[2] && !seats[3] && !seats[4]) ans+=2;
             else if (!seats[5] && !seats[6] && !seats[7] && !seats[8]) ans++;
             else if(!seats[1] && !seats[2] && !seats[3] && !seats[4]) ans++;
@@ -24,7 +24,7 @@ public:
             ctn++;
 
             // cout<<"row : "<<r<<" "<<ans<<"\n";
-            
+
         }
         if(n-ctn > 0) ans += 2*(n-ctn);
         
