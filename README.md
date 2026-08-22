@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Garena32/BRAIN_GYM/tree/master/2029-stone-game-ix) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Garena32/BRAIN_GYM/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Garena32/BRAIN_GYM/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Garena32/BRAIN_GYM/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
