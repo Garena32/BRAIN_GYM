@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Garena32/BRAIN_GYM/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Garena32/BRAIN_GYM/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Garena32/BRAIN_GYM/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Garena32/BRAIN_GYM/tree/master/2029-stone-game-ix) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Garena32/BRAIN_GYM/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Garena32/BRAIN_GYM/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Garena32/BRAIN_GYM/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Garena32/BRAIN_GYM/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Garena32/BRAIN_GYM/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Garena32/BRAIN_GYM/tree/master/2029-stone-game-ix) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Garena32/BRAIN_GYM/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Garena32/BRAIN_GYM/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Garena32/BRAIN_GYM/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Garena32/BRAIN_GYM/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Garena32/BRAIN_GYM/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Garena32/BRAIN_GYM/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Garena32/BRAIN_GYM/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Garena32/BRAIN_GYM/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Garena32/BRAIN_GYM/tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Garena32/BRAIN_GYM/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Garena32/BRAIN_GYM/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Garena32/BRAIN_GYM/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Garena32/BRAIN_GYM/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -114,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Garena32/BRAIN_GYM/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Garena32/BRAIN_GYM/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Garena32/BRAIN_GYM/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Garena32/BRAIN_GYM/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
@@ -135,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Garena32/BRAIN_GYM/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
