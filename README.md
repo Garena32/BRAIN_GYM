@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Garena32/BRAIN_GYM/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Garena32/BRAIN_GYM/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Garena32/BRAIN_GYM/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Garena32/BRAIN_GYM/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Garena32/BRAIN_GYM/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Garena32/BRAIN_GYM/tree/master/2029-stone-game-ix) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Garena32/BRAIN_GYM/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Garena32/BRAIN_GYM/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2029-stone-game-ix](https://github.com/Garena32/BRAIN_GYM/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Garena32/BRAIN_GYM/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Array
 |  |
 | ------- |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Garena32/BRAIN_GYM/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Garena32/BRAIN_GYM/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
