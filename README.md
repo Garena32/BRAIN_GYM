@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Garena32/BRAIN_GYM/tree/master/0881-boats-to-save-people) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Garena32/BRAIN_GYM/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Garena32/BRAIN_GYM/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Garena32/BRAIN_GYM/tree/master/2029-stone-game-ix) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Garena32/BRAIN_GYM/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Garena32/BRAIN_GYM/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Garena32/BRAIN_GYM/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Garena32/BRAIN_GYM/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0124-binary-tree-maximum-path-sum) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Garena32/BRAIN_GYM/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
