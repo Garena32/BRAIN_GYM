@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Garena32/BRAIN_GYM/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0064-minimum-path-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Garena32/BRAIN_GYM/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Garena32/BRAIN_GYM/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/Garena32/BRAIN_GYM/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/Garena32/BRAIN_GYM/tree/master/0486-predict-the-winner) |
@@ -244,9 +245,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Garena32/BRAIN_GYM/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Garena32/BRAIN_GYM/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Garena32/BRAIN_GYM/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Garena32/BRAIN_GYM/tree/master/0085-maximal-rectangle) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Garena32/BRAIN_GYM/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
