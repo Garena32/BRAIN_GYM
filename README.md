@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Garena32/BRAIN_GYM/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/Garena32/BRAIN_GYM/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/Garena32/BRAIN_GYM/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/Garena32/BRAIN_GYM/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0494-target-sum) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Garena32/BRAIN_GYM/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Garena32/BRAIN_GYM/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Garena32/BRAIN_GYM/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/Garena32/BRAIN_GYM/tree/master/0322-coin-change) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/Garena32/BRAIN_GYM/tree/master/0085-maximal-rectangle) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Garena32/BRAIN_GYM/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -238,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Garena32/BRAIN_GYM/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Garena32/BRAIN_GYM/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Garena32/BRAIN_GYM/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
