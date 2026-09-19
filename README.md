@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Garena32/BRAIN_GYM/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Garena32/BRAIN_GYM/tree/master/0881-boats-to-save-people) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Garena32/BRAIN_GYM/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Garena32/BRAIN_GYM/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0494-target-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Garena32/BRAIN_GYM/tree/master/0624-maximum-distance-in-arrays) |
+| [0658-find-k-closest-elements](https://github.com/Garena32/BRAIN_GYM/tree/master/0658-find-k-closest-elements) |
 | [0877-stone-game](https://github.com/Garena32/BRAIN_GYM/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Garena32/BRAIN_GYM/tree/master/0881-boats-to-save-people) |
 | [1046-last-stone-weight](https://github.com/Garena32/BRAIN_GYM/tree/master/1046-last-stone-weight) |
@@ -158,10 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Garena32/BRAIN_GYM/tree/master/0658-find-k-closest-elements) |
 | [1046-last-stone-weight](https://github.com/Garena32/BRAIN_GYM/tree/master/1046-last-stone-weight) |
 ## Two Pointers
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Garena32/BRAIN_GYM/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Garena32/BRAIN_GYM/tree/master/0881-boats-to-save-people) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Garena32/BRAIN_GYM/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Timsort
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Garena32/BRAIN_GYM/tree/master/0658-find-k-closest-elements) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Garena32/BRAIN_GYM/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Garena32/BRAIN_GYM/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Garena32/BRAIN_GYM/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -275,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Garena32/BRAIN_GYM/tree/master/0836-rectangle-overlap) |
+## Binary Search
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Garena32/BRAIN_GYM/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
