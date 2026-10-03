@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Garena32/BRAIN_GYM/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Garena32/BRAIN_GYM/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Garena32/BRAIN_GYM/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Garena32/BRAIN_GYM/tree/master/0516-longest-palindromic-subsequence) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Garena32/BRAIN_GYM/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Garena32/BRAIN_GYM/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0064-minimum-path-sum) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Garena32/BRAIN_GYM/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Garena32/BRAIN_GYM/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Garena32/BRAIN_GYM/tree/master/0085-maximal-rectangle) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Garena32/BRAIN_GYM/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Garena32/BRAIN_GYM/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Garena32/BRAIN_GYM/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Garena32/BRAIN_GYM/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Garena32/BRAIN_GYM/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
