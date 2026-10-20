@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Garena32/BRAIN_GYM/tree/master/0041-first-missing-positive) |
+| [0523-continuous-subarray-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0523-continuous-subarray-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Garena32/BRAIN_GYM/tree/master/1386-cinema-seat-allocation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Garena32/BRAIN_GYM/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Garena32/BRAIN_GYM/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Garena32/BRAIN_GYM/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/Garena32/BRAIN_GYM/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0494-target-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0523-continuous-subarray-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Garena32/BRAIN_GYM/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Garena32/BRAIN_GYM/tree/master/0658-find-k-closest-elements) |
 | [0877-stone-game](https://github.com/Garena32/BRAIN_GYM/tree/master/0877-stone-game) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Garena32/BRAIN_GYM/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/Garena32/BRAIN_GYM/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Garena32/BRAIN_GYM/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Garena32/BRAIN_GYM/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/1140-stone-game-ii) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0523-continuous-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Garena32/BRAIN_GYM/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Garena32/BRAIN_GYM/tree/master/3903-smallest-stable-index-i) |
@@ -303,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Garena32/BRAIN_GYM/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Garena32/BRAIN_GYM/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Garena32/BRAIN_GYM/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
