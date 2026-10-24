@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Garena32/BRAIN_GYM/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Garena32/BRAIN_GYM/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Garena32/BRAIN_GYM/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/Garena32/BRAIN_GYM/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Garena32/BRAIN_GYM/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Garena32/BRAIN_GYM/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Garena32/BRAIN_GYM/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Garena32/BRAIN_GYM/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Garena32/BRAIN_GYM/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/Garena32/BRAIN_GYM/tree/master/2409-count-days-spent-together) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Garena32/BRAIN_GYM/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Garena32/BRAIN_GYM/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Garena32/BRAIN_GYM/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
