@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Garena32/BRAIN_GYM/tree/master/0881-boats-to-save-people) |
 | [1046-last-stone-weight](https://github.com/Garena32/BRAIN_GYM/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Garena32/BRAIN_GYM/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Garena32/BRAIN_GYM/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Garena32/BRAIN_GYM/tree/master/1406-stone-game-iii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Garena32/BRAIN_GYM/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -219,11 +220,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Garena32/BRAIN_GYM/tree/master/0085-maximal-rectangle) |
+| [1254-number-of-closed-islands](https://github.com/Garena32/BRAIN_GYM/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Garena32/BRAIN_GYM/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Garena32/BRAIN_GYM/tree/master/0322-coin-change) |
+| [1254-number-of-closed-islands](https://github.com/Garena32/BRAIN_GYM/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Garena32/BRAIN_GYM/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Knapsack Problem
 |  |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Garena32/BRAIN_GYM/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1254-number-of-closed-islands](https://github.com/Garena32/BRAIN_GYM/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Garena32/BRAIN_GYM/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Garena32/BRAIN_GYM/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
