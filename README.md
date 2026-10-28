@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Garena32/BRAIN_GYM/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Garena32/BRAIN_GYM/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Garena32/BRAIN_GYM/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Garena32/BRAIN_GYM/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Garena32/BRAIN_GYM/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Garena32/BRAIN_GYM/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Garena32/BRAIN_GYM/tree/master/1872-stone-game-viii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Garena32/BRAIN_GYM/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Game Theory
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Garena32/BRAIN_GYM/tree/master/0085-maximal-rectangle) |
 | [1254-number-of-closed-islands](https://github.com/Garena32/BRAIN_GYM/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Garena32/BRAIN_GYM/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Garena32/BRAIN_GYM/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Garena32/BRAIN_GYM/tree/master/1386-cinema-seat-allocation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Garena32/BRAIN_GYM/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Garena32/BRAIN_GYM/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Garena32/BRAIN_GYM/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
