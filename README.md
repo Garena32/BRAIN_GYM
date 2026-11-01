@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Garena32/BRAIN_GYM/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Garena32/BRAIN_GYM/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/Garena32/BRAIN_GYM/tree/master/0322-coin-change) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Garena32/BRAIN_GYM/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Garena32/BRAIN_GYM/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0523-continuous-subarray-sum) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Garena32/BRAIN_GYM/tree/master/0062-unique-paths) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Garena32/BRAIN_GYM/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Garena32/BRAIN_GYM/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Garena32/BRAIN_GYM/tree/master/0836-rectangle-overlap) |
