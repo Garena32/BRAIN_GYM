@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Garena32/BRAIN_GYM/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Garena32/BRAIN_GYM/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Garena32/BRAIN_GYM/tree/master/0115-distinct-subsequences) |
+| [0399-evaluate-division](https://github.com/Garena32/BRAIN_GYM/tree/master/0399-evaluate-division) |
 | [0516-longest-palindromic-subsequence](https://github.com/Garena32/BRAIN_GYM/tree/master/0516-longest-palindromic-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/0940-distinct-subsequences-ii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Garena32/BRAIN_GYM/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Garena32/BRAIN_GYM/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Garena32/BRAIN_GYM/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/Garena32/BRAIN_GYM/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Garena32/BRAIN_GYM/tree/master/0399-evaluate-division) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Garena32/BRAIN_GYM/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Garena32/BRAIN_GYM/tree/master/0486-predict-the-winner) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Garena32/BRAIN_GYM/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Garena32/BRAIN_GYM/tree/master/0399-evaluate-division) |
 | [1254-number-of-closed-islands](https://github.com/Garena32/BRAIN_GYM/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Garena32/BRAIN_GYM/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Knapsack Problem
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0399-evaluate-division](https://github.com/Garena32/BRAIN_GYM/tree/master/0399-evaluate-division) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Garena32/BRAIN_GYM/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1254-number-of-closed-islands](https://github.com/Garena32/BRAIN_GYM/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Garena32/BRAIN_GYM/tree/master/0399-evaluate-division) |
 | [1254-number-of-closed-islands](https://github.com/Garena32/BRAIN_GYM/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Garena32/BRAIN_GYM/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
@@ -329,4 +334,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0523-continuous-subarray-sum) |
+## Graph Theory
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Garena32/BRAIN_GYM/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Garena32/BRAIN_GYM/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Garena32/BRAIN_GYM/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Garena32/BRAIN_GYM/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
