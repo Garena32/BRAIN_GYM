@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Garena32/BRAIN_GYM/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Garena32/BRAIN_GYM/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3693-climbing-stairs-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Garena32/BRAIN_GYM/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Garena32/BRAIN_GYM/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Garena32/BRAIN_GYM/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Garena32/BRAIN_GYM/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Garena32/BRAIN_GYM/tree/master/1872-stone-game-viii) |
+| [3693-climbing-stairs-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Garena32/BRAIN_GYM/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Game Theory
 |  |
