@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Garena32/BRAIN_GYM/tree/master/0134-gas-station) |
 | [0624-maximum-distance-in-arrays](https://github.com/Garena32/BRAIN_GYM/tree/master/0624-maximum-distance-in-arrays) |
 | [0881-boats-to-save-people](https://github.com/Garena32/BRAIN_GYM/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/Garena32/BRAIN_GYM/tree/master/1386-cinema-seat-allocation) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Garena32/BRAIN_GYM/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Garena32/BRAIN_GYM/tree/master/0085-maximal-rectangle) |
+| [0134-gas-station](https://github.com/Garena32/BRAIN_GYM/tree/master/0134-gas-station) |
 | [0322-coin-change](https://github.com/Garena32/BRAIN_GYM/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Garena32/BRAIN_GYM/tree/master/0399-evaluate-division) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Garena32/BRAIN_GYM/tree/master/0453-minimum-moves-to-equal-array-elements) |
