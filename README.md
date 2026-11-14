@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Garena32/BRAIN_GYM/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Garena32/BRAIN_GYM/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Garena32/BRAIN_GYM/tree/master/3364-minimum-positive-sum-subarray) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Garena32/BRAIN_GYM/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3693-climbing-stairs-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Garena32/BRAIN_GYM/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0523-continuous-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Garena32/BRAIN_GYM/tree/master/1872-stone-game-viii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Garena32/BRAIN_GYM/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Garena32/BRAIN_GYM/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/3904-smallest-stable-index-ii) |
 ## Nim Game
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Garena32/BRAIN_GYM/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Garena32/BRAIN_GYM/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Garena32/BRAIN_GYM/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Garena32/BRAIN_GYM/tree/master/3364-minimum-positive-sum-subarray) |
 ## Combinatorics
 |  |
 | ------- |
