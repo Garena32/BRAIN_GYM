@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Garena32/BRAIN_GYM/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Garena32/BRAIN_GYM/tree/master/0041-first-missing-positive) |
 | [0523-continuous-subarray-sum](https://github.com/Garena32/BRAIN_GYM/tree/master/0523-continuous-subarray-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Garena32/BRAIN_GYM/tree/master/1386-cinema-seat-allocation) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Garena32/BRAIN_GYM/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/Garena32/BRAIN_GYM/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Garena32/BRAIN_GYM/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Garena32/BRAIN_GYM/tree/master/0115-distinct-subsequences) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Garena32/BRAIN_GYM/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/Garena32/BRAIN_GYM/tree/master/0658-find-k-closest-elements) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Garena32/BRAIN_GYM/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Garena32/BRAIN_GYM/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
