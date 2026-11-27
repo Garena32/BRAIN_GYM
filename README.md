@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Garena32/BRAIN_GYM/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Garena32/BRAIN_GYM/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Garena32/BRAIN_GYM/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Garena32/BRAIN_GYM/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Garena32/BRAIN_GYM/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Garena32/BRAIN_GYM/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Garena32/BRAIN_GYM/tree/master/1872-stone-game-viii) |
 | [3693-climbing-stairs-ii](https://github.com/Garena32/BRAIN_GYM/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Garena32/BRAIN_GYM/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Garena32/BRAIN_GYM/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Game Theory
 |  |
 | ------- |
